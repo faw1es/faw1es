@@ -92,36 +92,6 @@
 - Create GitHub workflows and CI/CD processes
 - Improve development productivity through automation
 
----
-
-## 📌 Featured Projects
-
-### 🌐 Full-Stack Web Application
-
-A complete web application with frontend, backend, database integration, authentication, and role-based access.
-
-[View Repository](https://github.com/faw1es)
-
-### 🤖 Machine Learning Project
-
-A Machine Learning project developed for a competition and focused on solving real-world problems using data.
-
-[View Repository](https://github.com/faw1es)
-
-### 🎨 AI Product Design
-
-An AI-powered product concept combining user experience, product thinking, and intelligent technology.
-
-[View Repository](https://github.com/faw1es)
-
-### ⚙️ Automation Project
-
-Automation tools and scripts created to simplify repetitive development and system tasks.
-
-[View Repository](https://github.com/faw1es)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
