@@ -5,8 +5,15 @@
 ### Full-Stack Developer | AI Product Designer
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Product+Designer;Building+Modern+Web+Applications;Designing+Human-Centered+AI+Products"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Product+Designer;Building+Modern+Web+Applications;Designing+Human-Centered+AI+Products;Turning+Ideas+Into+Digital+Experiences"
+  alt="Typing animation"
+/>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=faw1es&label=Profile%20Views&color=00e7ff&style=flat-square"
+  alt="Profile views"
 />
 
 </div>
@@ -15,93 +22,175 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Full-Stack Developer
-- 🤖 AI Product Designer
-- 🌐 Building modern frontend and backend applications
-- 🎨 Designing useful and human-centered AI products
-- 🧠 Interested in Machine Learning and Generative AI
+- 👨‍💻 I'm **Faiq Bangkit Wicaksono**
+- 🌐 Full-Stack Developer focused on building modern web applications
+- 🤖 AI Product Designer focused on useful and human-centered AI products
+- 🎨 Combining technology, product thinking, and user experience
+- ⚙️ Experienced in frontend, backend, API integration, and automation
+- 🧠 Interested in Machine Learning, Generative AI, and intelligent systems
 - 🏆 Machine Learning competition winner in 2024
+- 🌱 Currently exploring `.NET`, system design, and AI integration
 - 📍 Based in Indonesia
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<div align="center">
+
+### Frontend Development
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+### Backend Development
 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### Design & Development Tools
 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Do
 
-<p align="center">
+### 🌐 Full-Stack Development
+
+- Build responsive and user-friendly interfaces
+- Develop backend systems and REST APIs
+- Integrate frontend applications with backend services
+- Design authentication and role-based access systems
+- Develop scalable and maintainable web applications
+
+### 🤖 AI Product Design
+
+- Design AI-powered product concepts and prototypes
+- Create human-centered AI experiences
+- Combine product design with Machine Learning
+- Explore Generative AI integration
+- Transform real-world problems into intelligent digital products
+
+### ⚙️ Automation
+
+- Build PowerShell automation scripts
+- Automate repetitive development tasks
+- Create GitHub workflows and CI/CD processes
+- Improve development productivity through automation
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Full-Stack Web Application
+
+A complete web application with frontend, backend, database integration, authentication, and role-based access.
+
+[View Repository](https://github.com/faw1es)
+
+### 🤖 Machine Learning Project
+
+A Machine Learning project developed for a competition and focused on solving real-world problems using data.
+
+[View Repository](https://github.com/faw1es)
+
+### 🎨 AI Product Design
+
+An AI-powered product concept combining user experience, product thinking, and intelligent technology.
+
+[View Repository](https://github.com/faw1es)
+
+### ⚙️ Automation Project
+
+Automation tools and scripts created to simplify repetitive development and system tasks.
+
+[View Repository](https://github.com/faw1es)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=faw1es&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Faiq's GitHub Stats"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=faw1es&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Faiq's GitHub statistics"
 />
 
 <img
-  width="48%"
+  width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw1es&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Faiq's Top Languages"
+  alt="Faiq's most used languages"
 />
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img
   width="70%"
-  src="https://streak-stats.demolab.com?user=faw1es&theme=tokyonight&hide_border=true"
-  alt="Faiq's GitHub Streak"
+  src="https://streak-stats.demolab.com?user=faw1es&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=FF6C37&currStreakLabel=00E7FF"
+  alt="Faiq's GitHub streak"
 />
 
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=faw1es&theme=tokyo-night&hide_border=true&area=true"
-  alt="Faiq's Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=faw1es&theme=tokyo-night&hide_border=true&area=true&custom_title=Faiq%20Bangkit%20Wicaksono%27s%20Contribution%20Graph"
+  alt="Faiq's contribution graph"
 />
 
-</p>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/faw1es">
   <img src="https://img.shields.io/badge/GitHub-faw1es-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Faiq_Bangkit_Wicaksono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:EMAIL-KAMU">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> “Technology should not only work. It should solve meaningful problems and create better experiences for people.”
 
 ---
 
@@ -109,6 +198,6 @@
 
 ### Building complete digital products—from interface to intelligence. 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=faw1es&color=00e7ff&style=flat-square)
+**Full-Stack Development • AI Product Design • Automation**
 
 </div>
