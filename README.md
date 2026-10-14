@@ -11,7 +11,7 @@
 
 **Faiq Bangkit Wicaksono** · `@faw1es`
 
-<img src="./assets/nightmare-eyes.gif" width="460" alt="Animated monochrome nightmare eyes and grin" />
+<img src="./assets/nightmare.mp4" width="460" alt="Animated monochrome nightmare eyes and grin" />
 
 <br/>
 
