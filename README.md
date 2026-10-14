@@ -28,7 +28,7 @@
 <br/><br/>
 
 <details>
-<summary><b>▽ &nbsp; More Info</b></summary>
+<summary><b> More Info</b></summary>
 
 <br/>
 
