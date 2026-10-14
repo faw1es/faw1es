@@ -1,101 +1,97 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
-
-<div align="center">
-  <samp>
-    <b>
-      システムアナリスト
-      <br>
-      Olá, meu nome é Rafaela !
-      <br>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
-</div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-<details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
+<!-- GitHub profile README for https://github.com/faw1es -->
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0b0b10,55:1a1723,100:393044&section=header" alt="Dark wave header" />
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
-</div>
+<sub>システムアナリスト · FULL-STACK DEVELOPMENT · AI PRODUCT DESIGN</sub>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
-</div>
+<br/><br/>
 
-<br>
+### Olá, meu nome é Faiq!
 
-##
+**Faiq Bangkit Wicaksono** · `@faw1es`
 
-<br>
+<img src="./assets/nightmare-eyes.gif" width="460" alt="Animated monochrome nightmare eyes and grin" />
 
-<div align="center">
+<br/>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nascrafaela08@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rafaelans0)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rafaela_dev)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516993578168)
-  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rafaelans)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
-  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@rafaelans00)
-  
-  
-</div>
+<img src="https://img.shields.io/badge/still_building...-14141a?style=flat-square&logo=github&logoColor=a897bc" alt="Still building" />
 
-<div align="center">
+<br/><br/>
 
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2900&pause=1200&color=B6A7C7&center=true&vCenter=true&width=690&lines=Full-Stack+Developer+%7C+AI+Product+Designer;Building+complete+digital+products;Exploring+Machine+Learning+and+Generative+AI;Turning+ideas+into+useful+experiences" alt="Animated introduction" />
 
-</div>
+<br/>
 
-##
+<img src="https://komarev.com/ghpvc/?username=faw1es&label=Profile%20views&color=393044&style=flat-square" alt="Profile views" />
+
+<br/><br/>
+
+<details>
+<summary><b>▽ &nbsp; More Info</b></summary>
+
+<br/>
+
+---
+
+### About Me
+
+I'm **Faiq Bangkit Wicaksono**, a **Full-Stack Developer** and **AI Product Designer** based in Indonesia. I build modern web applications and explore human-centered AI solutions.
+
+- 🏆 Machine Learning competition winner (2024)
+- ⚙️ Frontend, backend, API integration & automation
+- 🧠 Interested in Machine Learning, Generative AI & intelligent systems
+- 🌱 Currently exploring **.NET**, system design & AI integration
+
+### Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=dark" alt="HTML CSS JavaScript TypeScript React Vue" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,cs,dotnet&theme=dark" alt="PHP Laravel Python C sharp dot NET" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github,powershell&theme=dark" alt="Figma Postman Git GitHub PowerShell" />
+
+### What I Do
+
+| Development | AI Product Design | Automation |
+| :--- | :--- | :--- |
+| Web apps, APIs, authentication & integrations | Human-centered AI prototypes & product concepts | PowerShell, development workflows & CI/CD |
+
+### GitHub Activity
+
+<!-- These cards use public GitHub data via third-party services and may be cached. -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faw1es&theme=github_dark" width="48%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faw1es&theme=github_dark" width="48%" alt="Languages by repo" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faw1es&theme=github_dark" width="96%" alt="Contribution activity" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=faw1es&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A897BC&fire=B6A7C7&currStreakLabel=B6A7C7" width="64%" alt="GitHub contribution streak" />
+
+### Connect
+
+<a href="https://github.com/faw1es"><img src="https://img.shields.io/badge/GitHub-1b1b23?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/faiq-bangkit-wicaksono-36b07022b/"><img src="https://img.shields.io/badge/LinkedIn-1b1b23?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:faiqbw12@gmail.com"><img src="https://img.shields.io/badge/Email-1b1b23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<sub>Technology should solve meaningful problems and create better experiences for people.</sub>
 
 </details>
 
-<br>
-<br>
+<br/><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0b0b10,55:1a1723,100:393044&section=footer" alt="Dark wave footer" />
+
+</div>
