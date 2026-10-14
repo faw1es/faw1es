@@ -11,11 +11,9 @@
 
 **Faiq Bangkit Wicaksono** · `@faw1es`
 
-<img src="./assets/octocat.gif" width="460" alt="Animated monochrome nightmare eyes and grin" />
+<img src="./assets/catgift.gif" width="180" alt="Animated Octocat" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/still_building...-14141a?style=flat-square&logo=github&logoColor=a897bc" alt="Still building" />
 
 <br/><br/>
 
