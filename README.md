@@ -11,7 +11,7 @@
 
 **Faiq Bangkit Wicaksono** · `@faw1es`
 
-<img src="./assets/catgift.gif" width="180" alt="Animated Octocat" />
+<img src="./assets/catgif.gif" width="180" alt="blackcat" />
 
 <br/>
 
