@@ -1,136 +1,122 @@
+
+<!-- HEADER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=180&section=header&text=HELLO%20WORLD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20space&descAlignY=55"/>
+</div>
+
+<!-- INTRO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:0ea5e9,100:22d3ee&section=header&text=Faiq%20Bangkit%20Wicaksono&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Product%20Designer&descAlignY=55"/>
+  <h2>Hey there, I'm YOUR_NAME 👋</h2>
 
-# Hi, I'm Faiq Bangkit Wicaksono 👋
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Things+for+the+Web;Exploring+AI+%26+Automation;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
-### Full-Stack Developer • AI Product Designer
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+modern+web+applications;Designing+human-centered+AI+products;Turning+ideas+into+digital+experiences;Exploring+.NET%2C+system+design%2C+and+AI+integration" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=faw1es&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- ABOUT -->
+<h3>⌁ About Me</h3>
 
-- 👨‍💻 I'm **Faiq Bangkit Wicaksono**
-- 🌐 Full-Stack Developer focused on building modern web applications
-- 🤖 AI Product Designer focused on useful and human-centered AI products
-- 🎨 Combining technology, product thinking, and user experience
-- ⚙️ Experienced in frontend, backend, API integration, and automation
-- 🧠 Interested in Machine Learning, Generative AI, and intelligent systems
-- 🏆 Machine Learning competition winner in **2024**
-- 🌱 Currently exploring **.NET**, **system design**, and **AI integration**
-- 📍 Based in **Indonesia**
+```typescript
+const developer = {
+  name: "YOUR_NAME",
+  location: "Indonesia 🇮🇩",
+  role: "Software Developer",
 
----
+  interests: [
+    "Full Stack Development",
+    "System Architecture",
+    "AI & Automation",
+    "UI/UX Design"
+  ],
 
-## 🛠️ Tech Stack
+  currentlyBuilding: "Something awesome",
+  mindset: "Build. Break. Learn. Repeat."
+};
+```
+
+<br/>
+
+<!-- TECH STACK -->
+<h3>⌁ Tech Stack</h3>
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=dark" />
+  <h4>Languages & Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&theme=dark" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,python,cs,dotnet&theme=dark" />
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,supabase&theme=dark" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=figma,postman,git,github,powershell,vscode&theme=dark" />
+  <h4>Tools & Environment</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,linux&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## 🎯 What I Do
-
-### 🌐 Full-Stack Development
-- Build responsive and user-friendly interfaces
-- Develop backend systems and REST APIs
-- Integrate frontend applications with backend services
-- Design authentication and role-based access systems
-- Develop scalable and maintainable web applications
-
-### 🤖 AI Product Design
-- Design AI-powered product concepts and prototypes
-- Create human-centered AI experiences
-- Combine product design with Machine Learning
-- Explore Generative AI integration
-- Transform real-world problems into intelligent digital products
-
-### ⚙️ Automation
-- Build PowerShell automation scripts
-- Automate repetitive development tasks
-- Create GitHub workflows and CI/CD processes
-- Improve development productivity through automation
-
----
-
-## 📌 Current Focus
-
-- Building complete digital products from idea to deployment
-- Exploring AI integration in real-world applications
-- Learning more about system design and .NET ecosystem
-- Improving developer productivity through automation
-
----
-
-## 📊 GitHub Statistics
+<!-- GITHUB STATS -->
+<h3>⌁ GitHub Analytics</h3>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faw1es&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw1es&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="GitHub activity"/>
+
+  <br/>
+
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" alt="GitHub stats"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages"/>
 
 </div>
 
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<h3>⌁ Contribution Activity</h3>
+
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=faw1es&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+<!-- CONNECT -->
+<h3>⌁ Connect With Me</h3>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faw1es&theme=tokyo-night&hide_border=true&area=true&custom_title=Faiq%20Bangkit%20Wicaksono%27s%20Contribution%20Graph" alt="Contribution Graph" />
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=22d3ee"/>
+  </a>
+
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee"/>
+  </a>
+
 </div>
 
----
+<br/>
 
-## 🤝 Connect With Me
-
+<!-- FOOTER -->
 <div align="center">
 
-<a href="https://github.com/faw1es">
-  <img src="https://img.shields.io/badge/GitHub-faw1es-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/faiq-bangkit-wicaksono-36b07022b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Faiq_Bangkit_Wicaksono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:faiqbw12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-faiqbw12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <sub>Designed with curiosity. Built with code.</sub>
 
-</div>
+  <br/><br/>
 
----
-
-## 💭 Philosophy
-
-> “Technology should not only work. It should solve meaningful problems and create better experiences for people.”
-
----
-
-<div align="center">
-
-### Building complete digital products—from interface to intelligence. 🚀
-
-**Full-Stack Development • AI Product Design • Automation**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:0ea5e9,100:22d3ee&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=100&section=footer"/>
 
 </div>
