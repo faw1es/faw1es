@@ -1,122 +1,101 @@
-
-<!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=180&section=header&text=HELLO%20WORLD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20space&descAlignY=55"/>
-</div>
-
-<!-- INTRO -->
-<div align="center">
-
-  <h2>Hey there, I'm YOUR_NAME 👋</h2>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Things+for+the+Web;Exploring+AI+%26+Automation;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
-<br/>
-
-<!-- ABOUT -->
-<h3>⌁ About Me</h3>
-
-```typescript
-const developer = {
-  name: "YOUR_NAME",
-  location: "Indonesia 🇮🇩",
-  role: "Software Developer",
-
-  interests: [
-    "Full Stack Development",
-    "System Architecture",
-    "AI & Automation",
-    "UI/UX Design"
-  ],
-
-  currentlyBuilding: "Something awesome",
-  mindset: "Build. Break. Learn. Repeat."
-};
-```
-
-<br/>
-
-<!-- TECH STACK -->
-<h3>⌁ Tech Stack</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
 <div align="center">
-
-  <h4>Languages & Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&theme=dark" />
-
-  <h4>Backend & Database</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,supabase&theme=dark" />
-
-  <h4>Tools & Environment</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,linux&theme=dark" />
-
+  <samp>
+    <b>
+      システムアナリスト
+      <br>
+      Olá, meu nome é Rafaela !
+      <br>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 
-<br/>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-<!-- GITHUB STATS -->
-<h3>⌁ GitHub Analytics</h3>
-
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
 <div align="center">
 
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="GitHub activity"/>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
-  <br/>
-
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" alt="GitHub stats"/>
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages"/>
-
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
 </div>
 
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<h3>⌁ Contribution Activity</h3>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
 </div>
 
-<br/>
+<br>
 
-<!-- CONNECT -->
-<h3>⌁ Connect With Me</h3>
+##
+
+<br>
 
 <div align="center">
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
-  </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=22d3ee"/>
-  </a>
-
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee"/>
-  </a>
-
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nascrafaela08@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rafaelans0)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rafaela_dev)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516993578168)
+  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rafaelans)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
+  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@rafaelans00)
+  
+  
 </div>
 
-<br/>
-
-<!-- FOOTER -->
 <div align="center">
 
-  <sub>Designed with curiosity. Built with code.</sub>
-
-  <br/><br/>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=100&section=footer"/>
+<p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
 
 </div>
+
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
