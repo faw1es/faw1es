@@ -9,7 +9,7 @@
 
 ### Olá, meu nome é Faiq!
 
-**Faiq Bangkit Wicaksono** · `@faw1es`
+**Faiq Bangkit Wicaksono**
 
 <img src="./assets/cat.gif" width="180" alt="blackcat" />
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=faw1es&label=Profile%20views&color=393044&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=faw1es&label=Profile%20views&color=393044&style=flat-square&v=2" alt="Profile views" />
 
 <br/><br/>
 
